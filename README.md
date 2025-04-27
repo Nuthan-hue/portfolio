@@ -1,6 +1,7 @@
 # portfolio
-## Portfolio
 
-* [BFSI Real-Time Monitoring Tool Case Study](portfolio/bfsi_rtm.md)
+
+
+* [BFSI Real-Time Monitoring Tool Case Study](PORTFOLIO/bfsi_rtm.md)
 
 ---
